@@ -1,5 +1,5 @@
 # OmnirigBiggerTimeout
-OmniRig from VE3NEA fork that enable COM port timeout up to 20000ms instead of 4000ms.<br/>
+This is a fork of OmniRig from VE3NEA that enable COM port timeout up to 20000ms instead of 4000ms.<br/>
 <br/>
 I had problems with OmniRig V1.20 because the timeout we can set on this version is limited to 4000ms.<br/>
 In my case, i am using a Magnetic Loop antenna situated 4m away from my TX, <br/>
