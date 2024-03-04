@@ -30,6 +30,7 @@ in a CMD black window, I do:<br/>
     <b><i>COPY C:/users/\<username>/Downloads/omnirig.exe omnirig.exe</i></b><br/>
 <br/>
 Then you can start Omnirig, and verify in the "About" section that you are running the V1.21 version.<br/>
+<div align="center"><img src="images/OmnirugV1.21.png" /></div>
 If yes, you can now set the "Timeout" value up to 20s.<br/>
 <br/>
 Note : A value greater than 4000ms will lose the beginning of the next frame, because your TX may stay in transmit mode during the next frame reception. So, avoid using a too much high value. <br/>
