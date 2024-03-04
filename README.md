@@ -27,7 +27,7 @@ in a CMD black window, i do:<br/>
     <b><i>C:</i></b><br/>
     <b><i>CD "C:\Program Files (x86)\Afreet\OmniRig"</i></b><br/>
     <b><i>REN omnirig.exe omnirig.V120</i></b><br/>
-    <b><i>COPY C:\users\<username>\Downloads\omnirig.exe .</i></b><br/>
+    <b><i>COPY C:\users\\<username>\Downloads\omnirig.exe .</i></b><br/>
 <br/>
 Then you can start Omnirig, and verify in the "About" section that you are running the V1.21 version.<br/>
 If yes, you can now set the "Timeout" value up to 20s.<br/>
