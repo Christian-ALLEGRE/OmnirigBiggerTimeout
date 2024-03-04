@@ -24,10 +24,10 @@ by this one in your <b>C:\Program Files (x86)\Afreet\OmniRig</b> directory<br/>
 I do it using rename to get a backup of the original V1.20 .exe file.<br/>
 While no program using OmniRig is running (i.e: Log4OM closed, WSJT-X closed),<br/>
 in a CMD black window, i do:<br/>
-    <i>C:</i>
-    <i>CD "C:\Program Files (x86)\Afreet\OmniRig"</i>
-    <i>REN omnirig.exe omnirig.V120</i>
-    <i>COPY C:\users\<username>\Downloads\omnirig.exe .</i>
+    <b><i>C:</i></b><br/>
+    <b><i>CD "C:\Program Files (x86)\Afreet\OmniRig"</i></b><br/>
+    <b><i>REN omnirig.exe omnirig.V120</i></b><br/>
+    <b><i>COPY C:\users\<username>\Downloads\omnirig.exe .</i></b><br/>
 <br/>
 Then you can start Omnirig, and verify in the "About" section that you are running V1.21 version.<br/>
 If yes, you can now set the "Timeout" value up to 20s.<br/>
