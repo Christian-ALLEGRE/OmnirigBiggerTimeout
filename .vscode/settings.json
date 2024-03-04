@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "*.~dfm": true,
+        "*.~pas": true,
+        "*.dcu": true
+    }
+}

@@ -1,0 +1,8 @@
+*.dcu
+*.drc
+*.dof
+*.local
+*.dsk
+*.identcache
+*.~dsk
+__history/
